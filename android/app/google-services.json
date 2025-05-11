@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712126808260",
+    "project_id": "ujournalcs4750",
+    "storage_bucket": "ujournalcs4750.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712126808260:android:76ad36f5837a4c29978991",
+        "android_client_info": {
+          "package_name": "com.jdml.finpro_cs4750"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeptpljtUQgZeeHWex-xQiDLoPflySwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
